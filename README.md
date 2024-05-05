@@ -3,7 +3,7 @@
 before to start, remember to activate your ***venv*** or ***Virtual Enviroment***
 `python -m venv _venv`
 
-in that way, all the libaries and packages will ve installed ton your ***venv*** and not on your local machine
+in that way, all the libaries and packages will be installed on your ***venv*** and not on your local machine
 
 ### Install the libraries or packages
 Remember install the libraries or packages that we need, on this case ***FastApi***.
@@ -15,5 +15,5 @@ Once the installation is done, we can start our project, but before, lets import
 `from pokeapi import Pokemon`
 
 ### ------------------------------------------
-On the file ***pokeappi*** you will find the conection to the real pokeapi.
+On the file ***pokeapi*** you will find the connection to the real PokeApi.
 
