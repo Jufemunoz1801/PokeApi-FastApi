@@ -1,6 +1,6 @@
 # Connection to PokeApi using FastApi
 
-before to start, remember to activate your ***venv** or ***Virtual Enviroment***
+before to start, remember to activate your ***venv*** or ***Virtual Enviroment***
 `python -m venv _venv`
 
 in that way, all the libaries and packages will ve installed ton your ***venv*** and not on your local machine
